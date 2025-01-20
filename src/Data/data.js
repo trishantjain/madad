@@ -1,0 +1,57 @@
+export const clgList = [
+    {
+        name:"JC Bose",
+        sports:true,
+        incubation:false,
+        aiLabs:false,
+    },
+    {
+        name:"Aravali",
+        sports:true,
+        incubation:false,
+        aiLabs:false,
+    },
+    {
+        name:"Lingyas",
+        sports:true,
+        incubation:false,
+        aiLabs:false,
+    },
+    {
+        name:"Echelon",
+        sports:false,
+        incubation:true,
+        aiLabs:false,
+    },
+    {
+        name:"DAV",
+        sports:false,
+        incubation:true,
+        aiLabs:false,
+    },
+    {
+        name:"Nehru",
+        sports:false,
+        incubation:true,
+        aiLabs:false,
+    },
+    {
+        name:"IMT",
+        sports:false,
+        incubation:false,
+        aiLabs:true,
+    },
+    {
+        name:"Satyug",
+        sports:false,
+        incubation:false,
+        aiLabs:true,
+    },
+    {
+        name:"Rawal",
+        sports:false,
+        incubation:false,
+        aiLabs:true,
+    },
+
+]
