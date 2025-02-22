@@ -97,7 +97,7 @@ export default function CheckboxLabels() {
               </li>
             ))}
           </ul>
-          <Table />
+          <Table filteredClg={filteredClg} />
         </Grid>
       </Grid >
     </>
