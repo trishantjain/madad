@@ -90,13 +90,13 @@ export default function CheckboxLabels() {
         </Grid>
 
         <Grid item xs={12}>
-          <ul >
+          {/* <ul >
             {filteredClg.map((clg, index) => (
               <li key={index}>
                 {clg.name}
               </li>
             ))}
-          </ul>
+          </ul> */}
           <Table filteredClg={filteredClg} />
         </Grid>
       </Grid >
